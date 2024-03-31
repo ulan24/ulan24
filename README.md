@@ -12,7 +12,7 @@
  
  🔭 I’m currently writing my **diploma thesis**
  
- 🌱 I’m currently learning **Data Structures and Algorithms**
+ 🌱 I’m currently learning **Django and Javascript**
 
 💬 Ask me about **Spring Boot, Django, API ... or anything [here](https://github.com/ulan24/ulan24/issues)**
 
