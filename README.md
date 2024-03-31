@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&better=Hi+There!+👋;+I'm+Ulan+Satybaldiev!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Kyrgyzstan 🇰🇬</h3>
 
 <br/>
 
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql,flask,django,spring" /><br>
 </div>
 
 <br/>
