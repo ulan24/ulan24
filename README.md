@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ulan24.ulan24" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&better=Hi+There!+👋;+I'm+Ulan+Satybaldiev!;" />
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ulan+Satybaldiev!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Poland 🇵🇱</h3>
@@ -55,7 +55,8 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=ulan24" />
+
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=ulan24" />         <img alt="prog lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulan24&layout=compact" />
 
 <br/><br/>
 
