@@ -56,7 +56,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=ulan24" />         <img alt="prog lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulan24" />
+<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=ulan24" />         <img alt="prog lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulan24&layout=compact" />
 
 <br/><br/>
 
