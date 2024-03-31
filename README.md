@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently writing my **diploma thesis**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Data Structures and Algorithms**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Spring Boot, Django, API ... or anything [here](https://github.com/ulan24/ulan24/issues)**
 
 ⚡ Fun fact **The only food that doesn't spoil is Honey**
 
