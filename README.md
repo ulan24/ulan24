@@ -38,7 +38,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,react,git,bootstrap,html,css,vscode" />
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,intellijidea,github,python" /><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,github,python" /><br>
+     <img src="https://cdn.simpleicons.org/intellijidea" alt="IntelliJ IDEA" width="50"/>
 </div>
 
 <br/>
