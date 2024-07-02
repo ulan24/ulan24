@@ -12,9 +12,9 @@
  
  🔭 I’m currently writing my **diploma thesis**
  
- 🌱 I’m currently learning **Django and Javascript**
+ 🌱 Learn **React and Javascript** with me
 
-💬 Ask me about **Spring Boot, Django, API ... or anything [here](https://github.com/ulan24/ulan24/issues)**
+💬 Ask me about **Spring Boot, React, API ... or anything [here](https://github.com/ulan24/ulan24/issues)**
 
 ⚡ Fun fact **The only food that doesn't spoil is Honey**
 
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,c,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql,django,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,mysql,spring" /><br>
 </div>
 
 <br/>
