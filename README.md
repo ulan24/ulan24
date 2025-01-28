@@ -12,7 +12,7 @@
  
  🔭 I’m currently writing my **diploma thesis**
  
- 🌱 Learn **React and Javascript** with me
+ 🌱 Learn **React** with me
 
 💬 Ask me about **Django, Spring Boot, API ... or anything [here](https://github.com/ulan24/ulan24/issues)**
 
