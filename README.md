@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently writing my **diploma thesis**
+ 🔭 I’m graduating from Computer Science
  
  🌱 Learn **React** with me
 
