@@ -14,7 +14,7 @@
  
  🌱 Learn **React** with me
 
-💬 Ask me about **Django, Spring Boot, API ... or anything [here](https://github.com/ulan24/ulan24/issues)**
+💬 Ask me about **Django, Spring Boot, API ... or anything [here](https://github.com/ulan24)**
 
 ⚡ Fun fact **The only food that doesn't spoil is Honey**
 
